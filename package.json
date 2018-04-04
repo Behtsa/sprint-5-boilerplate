@@ -1,0 +1,27 @@
+{
+  "name": "sprint-5-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Behtsa/sprint-5-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Behtsa/sprint-5-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Behtsa/sprint-5-boilerplate#readme",
+  "dependencies": {
+    "browserify": "^16.1.1",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2",
+    "requirejs": "^2.3.5"
+  }
+}
